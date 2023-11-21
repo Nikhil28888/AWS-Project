@@ -1,0 +1,7 @@
+subprocess
+cursor
+pymysql
+boto3
+os
+awscli
+ install in cmd 
